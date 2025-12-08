@@ -10,10 +10,10 @@ Overall, the dataset is intended for exploratory analysis and insight generation
 # Questions of interest
 
 1. How has price per piece changed across release years?
-2. Which LEGO themes have the lowest average price per piece?
-3. Do sets with more pieces cost less per piece?
-4. Are sets for older kids priced differently than those for younger kids?
-5. How much more do sets with minifigures cost?
+2. How has the average price of sets changed over production years — i.e., are newer sets more expensive (or have more pieces) than older ones? 
+3. Which LEGO themes have the lowest average price per piece?
+4. Do sets with more pieces cost less per piece?
+5. Are sets for older kids priced differently than those for younger kids?
 6. How do Small, Medium, and Large sets differ in price and piece count?
 
 The answers are determining from the mentioned data set by extracting the information, transforming it into the necessary form, table and displaying the visualization.
