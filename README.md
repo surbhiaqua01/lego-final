@@ -32,6 +32,10 @@ The project is made out of the following files:
 1. lego-analysis.ipynb as the main google  notebook
 2. all datasets are stored in the folder /data as csv files
 
+# Imported libraies:
+1. Pandas
+2. matplotlib.pyplot
+
 # Project Requirements: 
 1. Business Understanding
 2. Data Understanding
