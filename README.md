@@ -1,4 +1,4 @@
-# lego-analysis 
+# LEGO Pricing & Value Analysis
 
 Description:
 This dataset contains information on LEGO sets released over multiple years, including pricing, piece counts, themes, age groups, packaging, and design features such as minifigures and unique pieces. Each row represents a single LEGO set and captures both product characteristics and retail pricing data, including Amazon prices.
